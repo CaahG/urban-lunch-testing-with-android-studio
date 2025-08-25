@@ -1,5 +1,5 @@
 # urban-lunch-testing-with-android-studio
-urban-lunch-qa
+Manual testing project of the mobile app Urban Lunch, as part of Sprint 5 in the QA.
 
 # 🌸 Manual Testing – Urban Lunch  
 **Software Quality | Bug Tracking | Mobile Testing**  
